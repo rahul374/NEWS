@@ -149,9 +149,6 @@
         <div id="newsaccordion">  </div>
 
 
-</div>
-
-
 <script>
     
    console.log('we create a news websites');
@@ -198,6 +195,7 @@ xhr.send();
     
 
 </script>
+</div>
 </body>
 
 </html>
