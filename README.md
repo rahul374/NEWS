@@ -148,7 +148,7 @@
         </div>
         <div id="newsaccordion">  </div>
         </div>
-
+</body>
 
 <script>
     
@@ -197,6 +197,6 @@ xhr.send();
 
 </script>
 
-</body>
+
 
 </html>
