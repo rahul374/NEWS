@@ -147,6 +147,7 @@
             <h1>Welcome to All India News</h1>
         </div>
         <div id="newsaccordion">  </div>
+        </div>
 
 
 <script>
@@ -195,7 +196,7 @@ xhr.send();
     
 
 </script>
-</div>
+
 </body>
 
 </html>
